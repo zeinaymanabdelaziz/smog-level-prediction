@@ -1,16 +1,16 @@
-🚗 Smog Level Prediction Application
+# Smog Level Prediction Application
 
 A machine learning web app to predict vehicle smog levels and raise environmental awareness.
 <br>Developed as part of an Introduction to AI course.
 
-📌 Project Overview
+# Project Overview
 
 This application uses a Decision Tree Classifier to predict smog levels based on vehicle data.
 <br>It features an interactive interface built with Streamlit to make smog level assessment accessible and user-friendly.
 <br>Live Demo: Streamlit App
 <br>GitHub Repo: AI_Final_Project
 
-🔍 Features
+# Features
 
 Predict smog levels from real vehicle emission data.
 <br>Train and test using a Decision Tree Classifier.
@@ -18,7 +18,7 @@ Predict smog levels from real vehicle emission data.
 <br>Easy to use with real-time feedback on predictions.
 <br>Promotes environmental awareness and sustainability education.
 
-📁 Project Structure
+# Project Structure
 <br>📦 AI_Final_Project
 <br>├── Final_Project.py         # Streamlit app and ML model
 <br>├── CO2_emission.csv         # Vehicle emission dataset
@@ -26,27 +26,27 @@ Predict smog levels from real vehicle emission data.
 <br>├── SmogNY.jpg               # Smog reference image
 <br>├── README.md                # Project documentation
 
-⚙️ Installation
+# Installation
 <br>Install dependencies
 <br>pip install -r requirements.txt
 <br>Run the Streamlit app
 <br>streamlit run Final_Project.py
 
-🧪 Dependencies
+# Dependencies
 <br>streamlit
 <br>pandas
 <br>scikit-learn
 <br>(See requirements.txt)
 
-📈 Dataset
+# Dataset
 <br>We used CO2_emission.csv, which includes multiple features related to vehicle emissions, including engine size, fuel consumption, and CO2 emissions.
 
-📊 Model
+# Model
 <br>Algorithm: Decision Tree Classifier
 <br>Goal: Classify vehicles into smog levels based on emission data
 <br>Output: Smog Level (e.g., Low, Moderate, High)
 
-🌍 Motivation
+# Motivation
 <br>Smog affects millions of lives every year. This tool aims to:
 <br>Help users understand their vehicle's environmental impact.
 <br>Encourage low-emission choices.
