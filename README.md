@@ -1,7 +1,8 @@
 🚗 Smog Level Prediction Application
 
 A machine learning web app to predict vehicle smog levels and raise environmental awareness.
-Developed as part of an Introduction to AI course.
+<br>Developed as part of an Introduction to AI course.
+
 📌 Project Overview
 
 This application uses a Decision Tree Classifier to predict smog levels based on vehicle data.
