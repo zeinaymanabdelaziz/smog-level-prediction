@@ -6,33 +6,38 @@ A machine learning web app to predict vehicle smog levels and raise environmenta
 📌 Project Overview
 
 This application uses a Decision Tree Classifier to predict smog levels based on vehicle data.
-It features an interactive interface built with Streamlit to make smog level assessment accessible and user-friendly.
-Live Demo: Streamlit App
-GitHub Repo: AI_Final_Project
+<br>It features an interactive interface built with Streamlit to make smog level assessment accessible and user-friendly.
+<br>Live Demo: Streamlit App
+<br>GitHub Repo: AI_Final_Project
+
 🔍 Features
 
 Predict smog levels from real vehicle emission data.
-Train and test using a Decision Tree Classifier.
-Fully interactive app using Streamlit.
-Easy to use with real-time feedback on predictions.
-Promotes environmental awareness and sustainability education.
+<br>Train and test using a Decision Tree Classifier.
+<br>Fully interactive app using Streamlit.
+<br>Easy to use with real-time feedback on predictions.
+<br>Promotes environmental awareness and sustainability education.
+
 📁 Project Structure
-📦 AI_Final_Project
-├── Final_Project.py         # Streamlit app and ML model
-├── CO2_emission.csv         # Vehicle emission dataset
-├── requirements.txt         # Dependencies
-├── SmogNY.jpg               # Smog reference image
-└── README.md                # Project documentation
+<br>📦 AI_Final_Project
+<br>├── Final_Project.py         # Streamlit app and ML model
+<br>├── CO2_emission.csv         # Vehicle emission dataset
+<br>├── requirements.txt         # Dependencies
+<br>├── SmogNY.jpg               # Smog reference image
+<br>└── README.md                # Project documentation
+
 ⚙️ Installation
-# Install dependencies
-pip install -r requirements.txt
-# Run the Streamlit app
-streamlit run Final_Project.py
+<br>Install dependencies
+<br>pip install -r requirements.txt
+<br>Run the Streamlit app
+<br>streamlit run Final_Project.py
+
 🧪 Dependencies
-streamlit
-pandas
-scikit-learn
-(See requirements.txt)
+<br>streamlit
+<br>pandas
+<br>scikit-learn
+<br>(See requirements.txt)
+
 📈 Dataset
 We used CO2_emission.csv, which includes multiple features related to vehicle emissions, including engine size, fuel consumption, and CO2 emissions.
 📊 Model
