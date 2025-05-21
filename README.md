@@ -24,7 +24,7 @@ Predict smog levels from real vehicle emission data.
 <br>├── CO2_emission.csv         # Vehicle emission dataset
 <br>├── requirements.txt         # Dependencies
 <br>├── SmogNY.jpg               # Smog reference image
-<br>└── README.md                # Project documentation
+<br>├── README.md                # Project documentation
 
 ⚙️ Installation
 <br>Install dependencies
@@ -39,15 +39,18 @@ Predict smog levels from real vehicle emission data.
 <br>(See requirements.txt)
 
 📈 Dataset
-We used CO2_emission.csv, which includes multiple features related to vehicle emissions, including engine size, fuel consumption, and CO2 emissions.
+<br>We used CO2_emission.csv, which includes multiple features related to vehicle emissions, including engine size, fuel consumption, and CO2 emissions.
+
 📊 Model
-Algorithm: Decision Tree Classifier
-Goal: Classify vehicles into smog levels based on emission data
-Output: Smog Level (e.g., Low, Moderate, High)
+<br>Algorithm: Decision Tree Classifier
+<br>Goal: Classify vehicles into smog levels based on emission data
+<br>Output: Smog Level (e.g., Low, Moderate, High)
+
 🌍 Motivation
-Smog affects millions of lives every year. This tool aims to:
-Help users understand their vehicle's environmental impact.
-Encourage low-emission choices.
-Promote AI's role in solving real-world environmental issues.
+<br>Smog affects millions of lives every year. This tool aims to:
+<br>Help users understand their vehicle's environmental impact.
+<br>Encourage low-emission choices.
+<br>Promote AI's role in solving real-world environmental issues.
+
 📜 License
-This project is licensed for academic and educational use.
+<br>This project is licensed for academic and educational use.
