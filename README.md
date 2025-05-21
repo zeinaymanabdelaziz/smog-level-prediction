@@ -19,7 +19,7 @@ Predict smog levels from real vehicle emission data.
 <br>Promotes environmental awareness and sustainability education.
 
 # Project Structure
-<br>📦 AI_Final_Project
+<br>AI_Final_Project
 <br>├── Final_Project.py         # Streamlit app and ML model
 <br>├── CO2_emission.csv         # Vehicle emission dataset
 <br>├── requirements.txt         # Dependencies
@@ -52,5 +52,5 @@ Predict smog levels from real vehicle emission data.
 <br>Encourage low-emission choices.
 <br>Promote AI's role in solving real-world environmental issues.
 
-📜 License
+# License
 <br>This project is licensed for academic and educational use.
